@@ -1,6 +1,6 @@
 # Data
 
-- *Name**
+- *Name*
 - *Platform*
 - *Year_of_Release*
 - *Genre*
