@@ -14,3 +14,8 @@
 
 # Goal:
 Prepare a report for a bank’s loan division. Find out if a customer’s marital status and number of children has an impact on whether they will default on a loan. 
+
+# Libraries used:
+pandas
+numpy
+nltk
