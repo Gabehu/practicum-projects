@@ -1,5 +1,5 @@
 # practicum-projects
-These are the projects that were completed for Practicum's Data Analyst professional training program
+These are the projects that were completed for Practicum's Data Analyst professional training program ordered by first to last project
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
