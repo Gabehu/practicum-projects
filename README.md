@@ -13,3 +13,4 @@ These are the projects that were completed for Practicum's Data Analyst professi
 | [Restaurant Market Research](restaurant_research) | With the given data, prepare market research and look into the current market conditions. | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn*, *plotly* |
 | [User Behavior A/A/B Testing](user_font) | Investigate user behavior for the companuy's app. Study the sales funnel, then look at the results of an A/A/B test.  | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn*, *plotly*, *math* |
 | [Trending Videos Analysis](trending_videos) | Find patterns in videos that trended and draw conclusions based on the dashboard created  | *Tableau* |
+| [Gym Churn Retention Strategy ML](gym_churn) | Analyze the gym data and come up with a customer retention strategy. Learn to predict the probability of churn and analyze the factors that impact churn the most. | *pandas*, *matplotlib.pyplot*, *seaborn*, *sklearn* |
