@@ -1,27 +1,27 @@
 # Data: 
 The data is extracted from SQL queries, conducted outside of this notebook file.
 
-The `project_sql_result_01` table (data on taxis):
+The `retail_dataset_us` table (retail data):
 
-- *company_name* — taxi company name
-- *trips_amount* — number of rides for each taxi company on November 15-16, 2017
+- *purchaseId*
+- *itemID* 
+- *purchasedate*
+- *Quantity* — the number of items in the purchase
+- *CustomerID*
+- *ShopID* 
+- *loyalty_program* — whether the customer is a member of the loyalty program
 
 
-The `project_sql_result_04` table (data on dropoff locations and number of rides):
+The `product_codes_us` table (data on prices per product):
 
-- *dropoff_location_name* — Chicago neighborhoods where rides ended
-- *average_trips* — The average number of rides that ended in each neighborhood in November 2017
+- *productID* 
+- *price_per_one*
 
-
-The `project_sql_result_07` table (rides from the Loop to O'Hare International Airport):
-
-- *start_ts* — pickup date and time
-- *weather_conditions* — weather conditions at the moment the ride started
-- *duration_seconds* — ride duration in seconds
-
+# Tableau link:
+https://public.tableau.com/views/RetailPurchasesDashboard/FinalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 # Goal:
-Find patterns in the available information. Working with a database, analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
+Dataset contains data on purchases made at the building-material retailer Home World. Analyze the store's loyalty program while formulating and testing statstical hypotheses
 
 # Libraries used
 pandas
@@ -30,4 +30,6 @@ matplotlib.pyplot
 
 scipy
 
-numpy
+seaborn
+
+math
