@@ -1,5 +1,5 @@
 # practicum-projects
-These are the projects that were completed for Practicum's Data Analyst professional training program ordered by first to last project
+These are the projects that were completed for [Practicum's Data Analyst professional training program](https://practicum.yandex.com/data-analyst/).
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
@@ -17,3 +17,7 @@ These are the projects that were completed for Practicum's Data Analyst professi
 | [Store Recommendation System AB Testing](recommendation_system) | Carry out EDA and evaluate the A/B test results regarding the new recommender system. | *pandas*, *matplotlib.pyplot*, *seaborn*, *scipy*, *plotly*, *math* |
 | [Online Book Data SQL](book_data) | Using the database provided, analyze the data and create conclusions based on the questions provided | *SQL* |
 | [Store Loyalty Program Null Hypotheses Testing](loyalty_program) | Dataset contains data on purchases made at the building-material retailer Home World. Analyze the store's loyalty program while formulating and testing statstical hypotheses | *pandas*, *matplotlib.pyplot*, *seaborn*, *scipy*, *plotly*, *math* |
+
+*Projects are listed in the order that they were completed.*
+
+[Certification of completion](http://code.s3.yandex.net/practicum_certificate/DA/16/Gabriel_Hu.pdf)
