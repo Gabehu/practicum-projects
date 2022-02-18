@@ -10,3 +10,4 @@ These are the projects that were completed for Practicum's Data Analyst professi
 | [Chicago Rides](chicago_rides) | Find patterns in the available information. Working with a database, analyze data from competitors and test a hypothesis about the impact of weather on ride frequency. | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy* |
 | [Marketing Expenses](marketing_expenses) | Optimize marketing expenses by finding how customers use the product, how much each customer brings in, when they buy, and when they pay off. | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn* |
 | [Online Store A/B Testing](online_store) | Prioritize the given hypotheses, launch an A/B test, and analyze the results | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn* |
+| [Restaurant Market Research](restaurant_research) | Prioritize the given hypotheses, launch an A/B test, and analyze the results | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn*, *plotly* |
