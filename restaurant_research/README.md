@@ -1,6 +1,6 @@
 # Data: 
 
-The `rest_data` table (data on taxis):
+The `rest_data` table (data on chain establishments):
 
 - *object_name* — establishment name
 - *chain* — chain establishment (TRUE/FALSE)
