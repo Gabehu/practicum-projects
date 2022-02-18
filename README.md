@@ -11,3 +11,4 @@ These are the projects that were completed for Practicum's Data Analyst professi
 | [Marketing Expenses](marketing_expenses) | Optimize marketing expenses by finding how customers use the product, how much each customer brings in, when they buy, and when they pay off. | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn* |
 | [Online Store A/B Testing](online_store) | Prioritize the given hypotheses, launch an A/B test, and analyze the results | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn* |
 | [Restaurant Market Research](restaurant_research) | With the given data, prepare market research and look into the current market conditions. | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn*, *plotly* |
+| [User Behavior A/A/B Testing](user_font) | Investigate user behavior for the companuy's app. Study the sales funnel, then look at the results of an A/A/B test.  | *pandas*, *matplotlib.pyplot*, *scipy*, *numpy*, *seaborn*, *plotly*, *math* |
