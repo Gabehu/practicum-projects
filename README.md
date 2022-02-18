@@ -21,3 +21,9 @@ These are the projects that were completed for [Practicum's Data Analyst profess
 *Projects are listed in the order that they were completed.*
 
 [Certification of completion](http://code.s3.yandex.net/practicum_certificate/DA/16/Gabriel_Hu.pdf)
+
+
+# Superfluid Company Project
+| Project name | Description | Libraries used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Superfluid active/dorment Behavior](Superfluid) | Analyze customer SMS data  to find ways to increase more consistent usage with customers | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *plotly* |
