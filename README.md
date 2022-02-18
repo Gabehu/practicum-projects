@@ -26,4 +26,4 @@ These are the projects that were completed for [Practicum's Data Analyst profess
 # Superfluid Company Project
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Superfluid active/dorment Behavior](Superfluid) | Analyze customer SMS data  to find ways to increase more consistent usage with customers | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *plotly* |
+| [Superfluid active/dorment Behavior](Superfluid) | Analyze customer SMS data  to find ways to increase more consistent usage with customers | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *plotly*, *Tableau*|
