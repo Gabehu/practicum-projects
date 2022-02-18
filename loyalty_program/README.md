@@ -33,3 +33,5 @@ scipy
 seaborn
 
 math
+
+plotly
