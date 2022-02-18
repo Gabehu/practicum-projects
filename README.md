@@ -15,4 +15,4 @@ These are the projects that were completed for Practicum's Data Analyst professi
 | [Trending Videos Analysis](trending_videos) | Find patterns in videos that trended and draw conclusions based on the dashboard created  | *Tableau* |
 | [Gym Churn Retention Strategy ML](gym_churn) | Analyze the gym data and come up with a customer retention strategy. Learn to predict the probability of churn and analyze the factors that impact churn the most. | *pandas*, *matplotlib.pyplot*, *seaborn*, *sklearn* |
 | [Store Recommendation System AB Testing](recommendation_system) | Carry out EDA and evaluate the A/B test results regarding the new recommender system. | *pandas*, *matplotlib.pyplot*, *seaborn*, *scipy*, *plotly*, *math* |
-| [Online Book Data SQL](book_data) | Using the database provided, analyze the data and create conclusions based on the questions provided | *pandas*, *sqlalchemy*, *SQL* |
+| [Online Book Data SQL](book_data) | Using the database provided, analyze the data and create conclusions based on the questions provided | *SQL* |
