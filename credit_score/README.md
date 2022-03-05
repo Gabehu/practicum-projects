@@ -21,7 +21,7 @@ Prepare a report for a bank’s loan division. Find out if a customer’s marita
 - Categorizing data
 - Conclusions
 
-# Libraries used
+# Libraries used:
 pandas
 
 numpy
