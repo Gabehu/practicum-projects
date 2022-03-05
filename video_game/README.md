@@ -16,6 +16,14 @@
 
 Identifying trends and patterns to determine game genres with the highest potential profit, and comparing different video game platforms.
 
+# Content:
+- Opening the data file
+- Preprocessing the data
+- EDA
+- Determine the top platforms, genres, and rating sales
+- Perform hypotheses testing
+- Conclusion
+
 # Libraries used:
 
 pandas
