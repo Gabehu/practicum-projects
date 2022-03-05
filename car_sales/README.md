@@ -15,6 +15,12 @@
 # Goal:
 Study the data collected over the last few years and determine which factors influence the price of a vehicle.
 
+# Content:
+- Opening the file
+- Data Preprocessing
+- Carry out EDA
+- Conclusions
+
 # Libraries used
 pandas
 
