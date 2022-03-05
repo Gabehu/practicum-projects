@@ -52,6 +52,12 @@ The `plans` table (data on the plans):
 # Goal:
 Consolidate data, analyze it, and conduct statistical hypothesis testing to determine the differences between average profit from differing plans and regions.
 
+# Content:
+- Open the data files
+- Prepare the data
+- Graphing the data
+- Conclusions
+
 # Libraries used
 pandas
 
