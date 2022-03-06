@@ -32,6 +32,12 @@ The `final_ab_participants` table (table containing test participants):
 # Goal:
 Carry out EDA and evaluate the A/B test results regarding the new recommender system 
 
+# Content:
+- Opening the data file and doing preprocessing
+- EDA
+- Evaluating A/B test results
+- Conclusions
+
 # Libraries used
 pandas
 
