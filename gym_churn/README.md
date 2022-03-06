@@ -17,6 +17,12 @@ Data from the log of visits and purchases and data on current membership status
 - *Avg_class_frequency_current_month* — average frequency of visits per week over the preceding month
 - *Avg_additional_charges_total* — the total amount of money spent on other gym services: cafe, athletic goods, cosmetics, massages, etc.
 
+# Content:
+- Opening the data file
+- EDA
+- Binary classification model 
+- Identifying clusters
+- Conclusions
 
 # Goal:
 Analyze the gym data and come up with a customer retention strategy. Learn to predict the probability of churn and analyze the factors that impact churn the most.
