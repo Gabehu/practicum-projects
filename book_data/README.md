@@ -42,6 +42,10 @@ The `reviews` table (data on reviews):
 # Goal:
 Using the database provided, analyze the data and create conclusions based on the questions provided
 
+# Content:
+- Create a database connection
+- Following through with each individual tasks
+
 # Libraries used
 pandas
 sqlalchemy
