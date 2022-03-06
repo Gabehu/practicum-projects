@@ -23,6 +23,13 @@ https://public.tableau.com/views/RetailPurchasesDashboard/FinalDashboard?:langua
 # Goal:
 Dataset contains data on purchases made at the building-material retailer Home World. Analyze the store's loyalty program while formulating and testing statstical hypotheses
 
+# Content:
+- Opening the data file and preprocessing the data
+- EDA
+- Testing hypotheses
+- Conclusion
+- Sources
+
 # Libraries used
 pandas
 
