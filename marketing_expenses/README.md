@@ -25,6 +25,11 @@ The `costs` table (data on marketing expenses):
 # Goal:
 Optimize marketing expenses by finding how customers use the product, how much each customer brings in, when they buy, and when they pay off.
 
+# Content:
+- Opening the data files
+- EDA
+- Conclusions
+
 # Libraries used
 pandas
 
