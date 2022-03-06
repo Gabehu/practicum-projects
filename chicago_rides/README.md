@@ -23,6 +23,12 @@ The `project_sql_result_07` table (rides from the Loop to O'Hare International A
 # Goal:
 Find patterns in the available information. Working with a database, analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 
+# Content:
+- Opening the data file
+- EDA
+- Perform hypotheses testing
+- Conclusion
+
 # Libraries used
 pandas
 
