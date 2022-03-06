@@ -12,6 +12,11 @@ The `rest_data` table (data on chain establishments):
 # Goal:
 With the given data, prepare market research and look into the current market conditions. 
 
+# Content:
+- Opening the data file and preprocessing data
+- EDA and graphing results
+- Conclusion and preparing presentation
+
 # Libraries used
 pandas
 
