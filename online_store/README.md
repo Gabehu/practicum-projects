@@ -30,6 +30,12 @@ The `visits_us` table (when the customer visited):
 # Goal:
 Prioritize the given hypotheses, launch an A/B test, and analyze the results
 
+# Content:
+- Opening the data file, and preprocessing the data
+- Prioritize the hypotheses
+- Carry out A/B tests and analyze the results
+- Conclusion
+
 # Libraries used
 pandas
 
