@@ -10,6 +10,14 @@ The `logs_exp_us` table (Each log entry is a user action or an event):
 # Goal:
 Investigate user behavior for the companuy's app. Study the sales funnel, then look at the results of an A/A/B test. 
 
+# Content:
+- Opening the data file
+- Preprocessing the data
+- EDA
+- Event funnel
+- Performing statistical hypothesis tests
+- Conclusion
+
 # Libraries used
 pandas
 
